@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
