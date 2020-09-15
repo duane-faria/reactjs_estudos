@@ -1,8 +1,12 @@
 import React from 'react';
-import Product from './Product';
-import './App.css';
+import LazyAndSuspense from './classes/Lazy&Suspense/App';
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <LazyAndSuspense />
+    </>
+  );
 }
 
 export default App;
